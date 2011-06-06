@@ -1,0 +1,12 @@
+{
+  "name" : "CSSCharger",
+  "description" : "Embedding images in Stylesheets as Base64 Data-URIs.",
+  "author" : "helgri",
+  "version" : "v0.1",
+  "bin" : "./csscharger.js",
+  "homepage" : "https://github.com/helgri/csscharger",
+  "repository" : {
+    "type" : "git",
+    "url" : "http://github.com/helgri/csscharger.git"
+  }
+}
