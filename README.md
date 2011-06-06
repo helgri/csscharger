@@ -47,6 +47,6 @@ Find more help with option `-h`
 
 See `LICENSE` file
 
-Copyright © 2011 Helge Grimm. All rights reserved.
+Copyright © 2011 helgri. All rights reserved.
 
 (Inspired by nzakas' [CSSEmbed](https://github.com/nzakas/cssembed))
