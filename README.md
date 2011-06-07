@@ -32,7 +32,7 @@ IE8 has a maximum file size limit of 32KB for an embedded image. So files above 
 
 If your Stylesheet is not encoded in UTF8, you can use the `--charset` to define it.
 
-    node csscharger.js --charset MacRoman <inputfile> <outputfile>
+    node csscharger.js --charset ascii <inputfile> <outputfile>
 
 
 
